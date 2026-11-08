@@ -69,7 +69,7 @@ When prompted by the terminal or pop-up:
 * **Password:** Paste your **Personal Access Token** (`ghp_...`)
 *Verification:* Terminal displays `Branch 'main' set up to track remote branch 'main' from 'origin'`, and refreshing your repository page on GitHub shows all your project files.
 
-
+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
 
 
 
