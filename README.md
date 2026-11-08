@@ -72,6 +72,11 @@ When prompted by the terminal or pop-up:
 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
 
 
+Yohan@192 UTS272102692 % git config http.postBuffer 524288000
+Yohan@192 UTS272102692 % git config --get http.postBuffer
+524288000
+
+
 
 
 
